@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rajasthan Hackathon 4.0", "Assembly-CSharp.csproj", "{0B5A7997-63E5-DDF1-8372-6555CE7D737D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rajasthan Hackathon 4.0", "Assembly-CSharp-Editor.csproj", "{2ABEFA79-F32C-B3D8-2AD6-A5A3AD1FAB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5A7997-63E5-DDF1-8372-6555CE7D737D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5A7997-63E5-DDF1-8372-6555CE7D737D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5A7997-63E5-DDF1-8372-6555CE7D737D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5A7997-63E5-DDF1-8372-6555CE7D737D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ABEFA79-F32C-B3D8-2AD6-A5A3AD1FAB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ABEFA79-F32C-B3D8-2AD6-A5A3AD1FAB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ABEFA79-F32C-B3D8-2AD6-A5A3AD1FAB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ABEFA79-F32C-B3D8-2AD6-A5A3AD1FAB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

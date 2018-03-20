@@ -1,0 +1,4 @@
+#Tue Mar 20 22:26:46 IST 2018
+base.0=E\:\\EON Projects\\Rajasthan Hackathon 4.0\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\EON Projects\\Rajasthan Hackathon 4.0\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

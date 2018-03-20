@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_dfb6fe218a9873ded1e28140a625c9a33d5d5885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\build\intermediates\pre-dexed\release\VuforiaUnityPlayer_80686a1f5f83609f8bebe7dddd062f48274b9cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="E:\EON Projects\Rajasthan Hackathon 4.0\Temp\gradleOut\build\intermediates\pre-dexed\release\Vuforia_1c24e2fda532475067e6fc9044c38027cbab9099.jar" />
+    </item>
+
+</items>
