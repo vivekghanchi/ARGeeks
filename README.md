@@ -9,7 +9,7 @@ We are harnessing the power of augmented reality and computer vision to develop 
 We are using computer vision to scan for defined images of these species and augmenting their behavior with the latest AR development engines, in addition to it the user will get an experience of observing the augmented behavior of the extinct species which were to this point were only documented with pictures or videos. the user of this solution will, in essence, can experience an augmented recreation of the extinct speices.
 
 
-#### Contributers
+### Contributers
 
 - Vivek Ghanchi ([@vivekghanchi](https://github.com/vivekghanchi))
 
